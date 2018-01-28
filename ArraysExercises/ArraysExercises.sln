@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_LargestCommonEnds", "01_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_FoldAndSum", "03_FoldAndSum\03_FoldAndSum.csproj", "{34391F0A-8019-4F34-9A05-C379549C0129}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_RotateAndSum", "02_RotateAndSum\02_RotateAndSum.csproj", "{095D42E8-6402-4CA4-86D5-A94A84B1C9D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_RotateAndSum", "02_RotateAndSum\02_RotateAndSum.csproj", "{095D42E8-6402-4CA4-86D5-A94A84B1C9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.EqualSums", "11.EqualSums\11.EqualSums.csproj", "{8CA79B84-7A7B-4BC6-8348-A528CDA8D5F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CompareCharArrays", "05.CompareCharArrays\05.CompareCharArrays.csproj", "{BB219306-EC17-43DE-A5BC-CC8668F328D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{095D42E8-6402-4CA4-86D5-A94A84B1C9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{095D42E8-6402-4CA4-86D5-A94A84B1C9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{095D42E8-6402-4CA4-86D5-A94A84B1C9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA79B84-7A7B-4BC6-8348-A528CDA8D5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA79B84-7A7B-4BC6-8348-A528CDA8D5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA79B84-7A7B-4BC6-8348-A528CDA8D5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA79B84-7A7B-4BC6-8348-A528CDA8D5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB219306-EC17-43DE-A5BC-CC8668F328D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB219306-EC17-43DE-A5BC-CC8668F328D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB219306-EC17-43DE-A5BC-CC8668F328D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB219306-EC17-43DE-A5BC-CC8668F328D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
