@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountRealNumbers", "CountRealNumbers\CountRealNumbers.csproj", "{759CE4E5-F279-4656-8D8B-BD05CD6D6E84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountRealNumbers", "CountRealNumbers\CountRealNumbers.csproj", "{759CE4E5-F279-4656-8D8B-BD05CD6D6E84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurrences", "OddOccurrences\OddOccurrences.csproj", "{D395EAB3-77E1-4A8A-82B1-E42E921907B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddOccurrences", "OddOccurrences\OddOccurrences.csproj", "{D395EAB3-77E1-4A8A-82B1-E42E921907B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMinMaxAverage", "SumMinMaxAverage\SumMinMaxAverage.csproj", "{E05BC848-203A-49E8-B4C4-727914356A5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumMinMaxAverage", "SumMinMaxAverage\SumMinMaxAverage.csproj", "{E05BC848-203A-49E8-B4C4-727914356A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestThreeNumbers", "LargestThreeNumbers\LargestThreeNumbers.csproj", "{23FB707A-3A20-4348-B37A-1EA3CF1E1885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortWordsSorted", "ShortWordsSorted\ShortWordsSorted.csproj", "{5E4F201E-B041-4B25-92F3-5699FE6F8CE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{E05BC848-203A-49E8-B4C4-727914356A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E05BC848-203A-49E8-B4C4-727914356A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E05BC848-203A-49E8-B4C4-727914356A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23FB707A-3A20-4348-B37A-1EA3CF1E1885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FB707A-3A20-4348-B37A-1EA3CF1E1885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FB707A-3A20-4348-B37A-1EA3CF1E1885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FB707A-3A20-4348-B37A-1EA3CF1E1885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E4F201E-B041-4B25-92F3-5699FE6F8CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4F201E-B041-4B25-92F3-5699FE6F8CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4F201E-B041-4B25-92F3-5699FE6F8CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4F201E-B041-4B25-92F3-5699FE6F8CE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
